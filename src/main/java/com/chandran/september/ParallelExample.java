@@ -1,5 +1,11 @@
 package com.chandran.september;
 
+/*
+ * Purpose : This is for Stream Parallel example
+ * Date    : Sept 07, 2021
+ * Auther  : chandransellappan
+ */
+
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
